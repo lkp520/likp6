@@ -22,15 +22,15 @@ feature:
   name: Python
 - description: 80%
   icon: medium-m
-  icon_pack: fas
+  icon_pack: fab
   name: Matlab
 - description: 50%
   icon: ubuntu
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
 - description: 90%
   icon: tumblr
-  icon_pack: fas
+  icon_pack: fab
   name: Latex
   
 # Uncomment to use emoji icons.
