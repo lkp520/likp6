@@ -25,8 +25,8 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-12"
-  description: "YOLOv5x"
+  date_start: "2021-12-10"
+  description: ""
   organization: Coursera
   title: 2021年中国高校大数据挑战赛之口罩检测 全国二等奖
   url: ""
