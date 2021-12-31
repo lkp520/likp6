@@ -49,7 +49,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-06-01"
-  description: ""
+  description: "回归分析，CNN，BP，人工蜂群算法，遗传算法"
   organization: DataCamp
   organization_url: 
   title: 第十一届 MathorCup 高校数学建模挑战赛 全国一等奖
@@ -57,7 +57,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2021-05-01"
-  description: "回归分析，CNN，BP，人工蜂群算法，遗传算法"
+  description: ""
   organization: DataCamp
   organization_url: 
   title: 第十二届蓝桥杯Python程序设计(省赛) 二等奖
