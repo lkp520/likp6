@@ -21,17 +21,13 @@ feature:
   icon_pack: fab
   name: Python
 - description: 80%
-  icon: medium-m
+  icon: medium
   icon_pack: fab
   name: Matlab
 - description: 50%
-  icon: ubuntu
+  icon: linux
   icon_pack: fab
   name: Linux
-- description: 90%
-  icon: tumblr
-  icon_pack: fab
-  name: Latex
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
