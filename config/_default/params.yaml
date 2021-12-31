@@ -91,10 +91,10 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
   publication: true
-  event: true
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
