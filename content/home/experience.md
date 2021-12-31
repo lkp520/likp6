@@ -41,7 +41,7 @@ experience:
     company_logo: org-bz
     location: Foshan
     date_start: '2022-07-01'
-    date_end: ''
+    date_end: '1'
     description: Artificial intelligence algorithm.
 
 design:
