@@ -25,7 +25,7 @@ experience:
   - title: 图像增强算法实习生
     company: 格灵人工智能与机器人研究院
     company_url: 'http://www.szglint.com/'
-    company_logo: gl
+    company_logo: 
     location: Shenzhen
     date_start: '2021-07-12'
     date_end: '2021-09-10'
@@ -38,7 +38,7 @@ experience:
   - title: 科创先锋
     company: 博智林机器人
     company_url: 'https://www.bzlrobot.com/'
-    company_logo: bzl
+    company_logo: 
     location: Foshan
     date_start: '2022-07-01'
     date_end: ''
