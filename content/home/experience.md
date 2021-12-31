@@ -22,27 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 图像增强算法实习生
+    company: 格灵人工智能与机器人研究院
+    company_url: 'http://www.szglint.com/'
+    company_logo: org-gl
+    location: Foshan
+    date_start: '2021-07-12'
+    date_end: '2021-09-10'
+    description: |2-
+        Tasks include:
+        
+        * 图像上色：基于DeOldify(NoGAN+Self Attention的PyTorch改进版)对ImageNet数据集进行彩色化、基于InstColorization(实例分割+上色融合)对 Supervisely人像数据集上色；
+        * 人像分割：收集人像分割数据集(Supervisely)，使用UNet+EfficientNet对其进行测试，得到人像的Masks.
+        
   - title: 科创先锋
     company: 博智林机器人
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.bzlrobot.com/'
+    company_logo: org-bz
     location: Foshan
     date_start: '2022-07-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Artificial intelligence algorithm
-        * C++
-        
-#  - title: Professor of Semiconductor Physics
-#    company: University X
-#    company_url: ''
-#    company_logo: org-x
-#    location: California
-#    date_start: '2016-01-01'
-#    date_end: '2020-12-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
+    description: Artificial intelligence algorithm.
 
 design:
   columns: '2'
