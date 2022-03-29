@@ -32,17 +32,17 @@ experience:
     description: |2-
         Tasks include:
         
-        * 图像上色：基于DeOldify(NoGAN+Self Attention的PyTorch改进版)对ImageNet数据集进行彩色化、基于InstColorization(实例分割+上色融合)对 Supervisely人像数据集上色；
+        * 图像上色：基于DeOldify(NoGAN+Self Attention的PyTorch改进版)对ImageNet数据集进行彩色化、基于InstColorization(实例分割+上色融合)对Supervisely人像数据集上色；
         * 人像分割：收集人像分割数据集(Supervisely)，使用UNet+EfficientNet对其进行测试，得到人像的Masks.
         
-  - title: 科创先锋
-    company: 博智林机器人
-    company_url: 'https://www.bzlrobot.com/'
+  - title: 计算机视觉算法开发工程师
+    company: OPPO
+    company_url: 'https://www.oppo.com/cn/'
     company_logo: org-x
-    location: Foshan
+    location: Shenzhen
     date_start: '2022-07-01'
     date_end: ''
-    description: Artificial intelligence algorithm.
+    description: 
 
 design:
   columns: '2'
